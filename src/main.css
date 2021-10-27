@@ -1,0 +1,29 @@
+.blurBack {
+  backdrop-filter: blur(4px) !important;
+  background-color: rgba(255, 255, 255, 0.377);
+}
+
+.darkBlurBack {
+  backdrop-filter: blur(4px) !important;
+  background-color: rgba(255, 255, 255, 0.781);
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+.page4 {
+  background-image: url(./images/p4.jpg);
+  background-attachment: fixed;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
