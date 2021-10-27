@@ -11,10 +11,10 @@ export default function StageTwo() {
             <div className="col-12 col-sm-6 p-3 py-4 d-flex flex-column justify-content-center">
             <h2 className="text-dark fw-bold">Stage 2: OUT-DOING THE COMPETITION</h2>
             <ul className="text-dark px-3">
-                <li>Meaning, you differentiate your products from the rest of your competitors by expanding your original claim.</li>
-                <li>Magic words: ‘Have this tea and Lose weight after one week!’ — you’ve added in some things to emphasize and strengthen your original statement… giving big, bold promises.</li>
-                <li>In this Stage 2, your competitions make claims that are so big that you can’t outbid them (or out claim them) without sounding false and ridiculous.</li>
-                <li>Say, your competitor says, “Drink our tea and Lose weight in 6 days”. You can’t use that same marketing style. And you can’t also say “Have our tea and lose weight in 7 minutes” for this (and you) will sound so ridiculous just because you try to outdo your competitor’s claim.</li>
+                <li className="pb-1">Meaning, you differentiate your products from the rest of your competitors by expanding your original claim.</li>
+                <li className="pb-1">Magic words: ‘Have this tea and Lose weight after one week!’ — you’ve added in some things to emphasize and strengthen your original statement… giving big, bold promises.</li>
+                <li className="pb-1">In this Stage 2, your competitions make claims that are so big that you can’t outbid them (or out claim them) without sounding false and ridiculous.</li>
+                <li className="pb-1">Say, your competitor says, “Drink our tea and Lose weight in 6 days”. You can’t use that same marketing style. And you can’t also say “Have our tea and lose weight in 7 minutes” for this (and you) will sound so ridiculous just because you try to outdo your competitor’s claim.</li>
             </ul>
             </div>
         </div>

@@ -14,10 +14,10 @@ export default function StageOne() {
           <div className="col-12 col-sm-6 p-3 py-4 d-flex flex-column justify-content-center">
             <h2 className="text-dark fw-bold">Stage 1: THE PIONEER STAGE</h2>
             <ul className="text-dark px-4">
-              <li>It simply means that your product is new enough that it only needs to be placed out there so it can be known by your market.</li>
-              <li>Magic words: ‘Have this tea and Lose weight!’. — with those, you can get the attention of a lot of people.</li>
-                <li>But as time progresses and more competitors join you in creating diet teas, those simple words get lost in the world of competition.</li>
-              <li>So you need to move ahead of them and show that your diet tea is the best by emphasizing your product’s promises. This is stage two.</li>
+              <li className="pb-1">It simply means that your product is new enough that it only needs to be placed out there so it can be known by your market.</li>
+              <li className="pb-1">Magic words: ‘Have this tea and Lose weight!’. — with those, you can get the attention of a lot of people.</li>
+              <li className="pb-1">But as time progresses and more competitors join you in creating diet teas, those simple words get lost in the world of competition.</li>
+              <li className="pb-1">So you need to move ahead of them and show that your diet tea is the best by emphasizing your product’s promises. This is stage two.</li>
             </ul>
           </div>
         </div>
